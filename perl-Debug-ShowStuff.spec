@@ -4,7 +4,7 @@
 #
 Name     : perl-Debug-ShowStuff
 Version  : 1.16
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Debug-ShowStuff-1.16.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Debug-ShowStuff-1.16.tar.gz
 Summary  : 'Debug::ShowStuff - A collection of handy debugging routines for displaying the values of variables with a minimum of coding.'
@@ -106,7 +106,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Debug/ShowStuff.pm
-/usr/lib/perl5/vendor_perl/5.34.0/Debug/ShowStuff.pod
-/usr/lib/perl5/vendor_perl/5.34.0/Debug/ShowStuff/ShowVar.pm
-/usr/lib/perl5/vendor_perl/5.34.0/Debug/ShowStuff/ShowVar.pod
+/usr/lib/perl5/*
