@@ -4,7 +4,7 @@
 #
 Name     : perl-Debug-ShowStuff
 Version  : 1.16
-Release  : 12
+Release  : 13
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Debug-ShowStuff-1.16.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIKO/Debug-ShowStuff-1.16.tar.gz
 Summary  : 'Debug::ShowStuff - A collection of handy debugging routines for displaying the values of variables with a minimum of coding.'
